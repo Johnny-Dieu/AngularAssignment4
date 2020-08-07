@@ -1,0 +1,18 @@
+{
+  "breakfast": [{
+      "food": "Eggs Benedict",
+      "price": "$15.00",
+      "calories": 1020
+    },
+    {
+      "food": "Ham & Cheese Omelette",
+      "price": "$18.00",
+      "calories": 492
+    },
+    {
+      "food": "Country-Fried Steak & Eggs",
+      "price": "$20.00",
+      "calories": 675
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dinner": [{
+      "food": "Beyond Burger + Fries",
+      "price": "$13.75",
+      "calories": 270
+    },
+    {
+      "food": "Dynamite Roll",
+      "price": "$18.00",
+      "calories": 348
+    },
+    {
+      "food": "Ahi Tuna Poke Bowl",
+      "price": "$16.75",
+      "calories": 390
+    }
+  ]
+}

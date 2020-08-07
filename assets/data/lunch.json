@@ -1,0 +1,18 @@
+{
+  "lunch": [{
+      "food": "Shrimp and Salmon Pasta",
+      "price": "$20.00",
+      "calories": 370
+    },
+    {
+      "food": "Spicy Fried Chicken Sandwich",
+      "price": "$18.00",
+      "calories": 700
+    },
+    {
+      "food": "Grilled Salmon Salad",
+      "price": "$16.50",
+      "calories": 392
+    }
+  ]
+}
